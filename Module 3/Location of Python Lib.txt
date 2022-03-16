@@ -1,0 +1,3 @@
+Location of Python libraries:
+
+C:\Users\abhin\AppData\Local\Programs\Python\Python310\Lib
